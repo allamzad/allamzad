@@ -1,4 +1,4 @@
-## Hello there 👋
+# Hello there 👋
 
 ### My name is Allam Amzad and I'm a Junior at Caltech studying Computer Science 💻.
 
