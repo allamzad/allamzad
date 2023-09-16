@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 📚 Tech Stack (in order of preference): Python, C++, C, Java, Javascript, SQL, MatLab. I'm also currently learning C#, and intend to learn more languages afterwards.
 
 🤔 Math/CS Courses I'm currently taking in my Junior year (tentative): 
+
 Fall 🍂: Probability Theory, Computer Systems, Information Theory   
 Winter ❄️: Bayesian Statistics, Functional Programming, Relational Databases
 Spring 🌱: Advanced Topics in ML, Statistical Learning, GPU Programming, Operating Systems
