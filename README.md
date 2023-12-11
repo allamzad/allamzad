@@ -14,11 +14,8 @@
 🔭 I’m currently learning more about PyTorch and Deep Learning for a research project (starting in January) focusing on generative modeling using transport maps ([resource](https://jmlr.org/papers/volume22/19-1028/19-1028.pdf), [resource](https://arxiv.org/abs/1908.09257)) and applications of Bayesian Inference ([resource](https://arxiv.org/abs/1602.05023), [resource](https://arxiv.org/abs/2006.06755)). 
 
 🤔 Math/CS Courses I'm currently taking in my Junior year (tentative):   
-* Fall 🍂: Probability Theory, Computer Systems, Information Theory   
-* Winter ❄️: Bayesian Statistics, Functional Programming, Relational Databases
+* Fall 🍂: Probability Theory, Computer Systems, Applied Linear Algebra  
+* Winter ❄️: Machine Learning, Networks, Relational Databases
 * Spring 🌱: Advanced Topics in ML, Statistical Learning, GPU Programming, Operating Systems
 
 📫 You can reach me at allam.amzad1@gmail.com for any reason!
-
-⚡ Fun fact: I'm a huge manga fan, especially of One Piece.
-
